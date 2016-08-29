@@ -3,5 +3,10 @@
         "name" : "Ricardo Batista",
         "email" : "ricardo.batista@olx.com",
         "departament" : "Space Cake Cars"
+    },
+    {
+        "name" : "Emanuel Santos",
+        "email" : "emanuel.santos@olx.com",
+        "departament" : "The Others"
     }
 ]
